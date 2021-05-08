@@ -1,7 +1,16 @@
 body {
     font-family: 'Raleway', sans-serif;
+    background-color: #f1f1f1;
 }
 
 .pp-action {
     line-height: 1.4;
+}
+
+.badge.badge-big {
+    font-size: 90%;
+}
+
+a.footer-link {
+    text-decoration: underline;
 }
